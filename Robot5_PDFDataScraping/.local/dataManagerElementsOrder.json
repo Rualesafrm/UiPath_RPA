@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "IntInvoiceNumber&TryCatch_1",
+        "InvoiceDatePdf&TryCatch_1",
+        "InvoiceCompanyName&TryCatch_1",
+        "DoubleInvoiceTotal&TryCatch_1",
+        "dt_Result&Sequence_1",
+        "InvoiceTotal&Sequence_3",
+        "InvoiceDate&Sequence_3",
+        "InvoiceNumber&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
